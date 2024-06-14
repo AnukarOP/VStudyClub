@@ -19,7 +19,7 @@ body {
     font-size: 4rem;
     color: #fff;
     animation: flicker 1.5s infinite alternate;
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 40px #00ff00, 0 0 80px #00ff00, 0 0 160px #00ff00;
+    text-shadow: 0 0 5px #ff7402, 0 0 10px #ff7402, 0 0 20px #ff7402, 0 0 40px #ff7402, 0 0 80px #ff7402, 0 0 160px #ff7402;
 }
 
 .subtitle {
